@@ -1,26 +1,12 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
 
-
-
-<div align="center">
-</p>
-
-
-<div align="center">
-<img src="life.jpg" alt="Pepe" width="170" />
-
-# Bosco Bot
-
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
->
->
-
-  ### Simple Method
-  
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
+# Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
+  
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ayushop599/Bosco)
+
+
 <p align="center">
  <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
